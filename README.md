@@ -2,8 +2,7 @@
   <img src="https://github.com/AlexanderVenik/AlexanderVEnik/blob/main/assets/e426702edf874b181aced1e2fa5c6cde.gif" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Alexander, beginner Develoter in iRidium Mobile</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Alexander, beginner Develoter</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandervenik&label=Profile%20views&color=0e75b6&style=flat" alt="alexandervenik" /> </p>
 
